@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2? family = Sansita + Swashed & display = swap');
+@import url('https://fonts.googleapis.com/css2? family = Cormorant + Garamond: ital, wght @ 1.300 & display = swap');
+body{
+	background-color: #FAF0E6;
+	font-family:'Cormorant Garamond', serif;
+}
+.container, .row, button, a, span, .card, b{
+	font-family:'Cormorant Garamond', serif;
+}
+.erro{
+	color: red;
+}
+#black{
+	color: black;
+	font-family:'Cormorant Garamond', serif;
+}
+img{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+h1, h2, h3,h4,h5,h6{
+	 font-family: 'Sansita Swashed',  cursive;
+}
+p{
+	font-family:'Cormorant Garamond', serif;
+}
